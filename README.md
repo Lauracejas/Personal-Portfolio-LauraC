@@ -14,7 +14,10 @@ SO THAT I can review samples of my work and assess whether I'am a good candidate
 
 ## Description
 
-This repository is my personal portfolio that I create to showcase my skills, my most important work and the thought processes behind it. Here you can know a little about me, you can contact me through email, phone, GitHub and LinkedIn and you can also find my resume.
+- This repository is my personal portfolio that I create to showcase my skills, my most important work and the thought processes behind it. Here you can know a little about me, you can contact me through email, phone, GitHub and LinkedIn and you can also find my resume.
+- Following the requirements, I made the HTML and CSS files as short and accessible as I could. In the HTML file I created three sections in the main to divide the content (about me, work, and contact me).
+- In the CSS and HTML file I commented out any changes made to the code for futures developers understand.
+
 
 ## Requirements
 
