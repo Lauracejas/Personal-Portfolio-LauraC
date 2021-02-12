@@ -45,7 +45,7 @@ All my credits I want to give to our instructor Anthony Cooper and our Teacher A
 
 - [Link to Github Profile](https://github.com/Lauracejas)
 
-- [Link to deployed website](https://lauracejas.github.io/portfolio-laurac-ass2/)
+- [Link to deployed website](https://lauracejas.github.io/Personal-Portfolio-LauraC/)
 
 ## Portfolio
 
